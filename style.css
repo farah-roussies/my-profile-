@@ -1,0 +1,128 @@
+body {
+  background-color: white;
+  color: #102C57;
+  font-family: 'Nanum Myeongjo', serif;;
+  font-size: 17px;  
+}
+
+h1, h2{
+  font-family: 'Josefin Slab', serif;
+  color: #4682A9;
+}
+
+a {
+  text-decoration: none;
+  color: #96B6C5;
+  font-weight: 600;
+  font-size: 20px;  
+}
+a: hover {
+color: black;
+}
+.container {
+ width: 700px;
+ margin: 40px auto;
+}
+
+p { color: #164B60;
+	font-weight: 300;
+	font-size: 17px;    
+ }
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 25xp;
+}
+
+button {
+	padding: 5xp 10xp;
+	border-radius: 40xp;
+	border: solid 2xp rgb(255, 204, 153);
+}
+
+
+
+.the-city {
+	padding: 10xp 20xp;
+	border-radius: 5xp;
+	margin-top: 30xp;
+	font-family: 'playpen Sans', cursive;
+}
+
+.horizontal-line {
+   border: solid 1,5px rgb(255, 204, 153);
+}
+
+.card-white {
+  background-color: #C4DFDF;
+  padding: 40px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0,1);
+  border-radius: 4px;
+  margin: 20px 0px;
+  text-align: center;
+}
+.img-circle {
+  border-radius: 50%;
+}
+.btn-blue {
+  background-color: #96B6C5;
+  color: white;
+  padding: 15px 20px;
+  border-radius: 4px;
+}
+.btn-blue: hover {
+  background-color: black;
+  color: white;
+}
+.list-inline {
+    list-style: none;
+    padding-left: 0px;
+}
+.list-inline li {
+   display: inline;
+   padding: 10px;
+}
+.list-inline i {
+  font-size: 50px;
+  color: rgb(230, 230, 230);
+}
+#introduction p {
+  margin-bottom: 40px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
